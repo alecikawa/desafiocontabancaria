@@ -13,7 +13,7 @@ Este é o meu primeiro desafio prático em Java oferecido pela Alura, onde desen
 ## 🖥️ Demonstração da Aplicação
 https://github.com/user-attachments/assets/064596d3-28ca-48e0-8229-d67e4e32d184
 
-## 🛠 Tecnologias Utilizadas
+## 🛠 Tecnologia Utilizada
 
 - **Java**: Linguagem principal utilizada no desenvolvimento.
 
